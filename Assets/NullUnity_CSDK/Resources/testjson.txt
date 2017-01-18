@@ -1,0 +1,1 @@
+{"configs":[{"continuousGesturesId":0,"continuousGesturesName":"shoot","totalCount":2,"gestureList":[9,1],"holdTime":-1,"startGesture":9}]}
